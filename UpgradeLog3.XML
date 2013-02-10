@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="gSOAM">
+</Property><Property Name="Solution File" Value="C:\Users\pmarco\usr\unipv\tesi\AngeloStramieri\SOAM\gSOAM\gSOAM.sln">
+</Property><Property Name="Date" Value="venerdì 7 agosto 2009">
+</Property><Property Name="Time" Value="16.34">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="gSOAM" Source="gSOAM.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="gSOAM" Source="gSOAM.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="gSOAM_CUDA" Source="gSOAM_CUDA.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="gSOAM_CUDA" Source="gSOAM_CUDA.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="gSOAM_CUDA" Source="gSOAM_CUDA.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="gSOAM_CUDA" Source="gSOAM_CUDA.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="test_landmarks" Source="test_landmarks.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="test_landmarks" Source="test_landmarks.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="gSOAM.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="gSOAM.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

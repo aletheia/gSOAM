@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="gSOAM">
+</Property><Property Name="Solution File" Value="C:\Users\pmarco\usr\unipv\tesi\AngeloStramieri\SOAM\gSOAM\gSOAM.sln">
+</Property><Property Name="Date" Value="venerdì 7 agosto 2009">
+</Property><Property Name="Time" Value="16.26.05">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="gSOAM_CUDA" Source="gSOAM_CUDA.vcproj" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: C:\Users\pmarco\usr\unipv\tesi\AngeloStramieri\SOAM\gSOAM\gSOAM_CUDA.vcproj&#xA;Line: 17&#xA;Column: 4&#xA;Error Message:&#xA;Custom build rules file 'c:\Users\pmarco\usr\unipv\tesi\AngeloStramieri\doc\cuda.rules' was not found or failed to load.&#xA;The file 'C:\Users\pmarco\usr\unipv\tesi\AngeloStramieri\SOAM\gSOAM\gSOAM_CUDA.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="gSOAM_CUDA" Source="gSOAM_CUDA.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="gSOAM_CUDA" Source="gSOAM_CUDA.vcproj" Description="Not Converted">
+</Event></UpgradeLog>

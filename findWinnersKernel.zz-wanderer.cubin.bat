@@ -1,0 +1,1 @@
+nvcc.exe -ccbin "C:\Programmi\Microsoft Visual Studio 8\VC\bin" -cubin --maxrregcount 16 -DWIN32 -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Wp64 /O2 /Zi  /MT " -I"C:\Program Files\NVIDIA\CUDA\include" -I./ -I../../common/inc findWinnersKernel.cu
